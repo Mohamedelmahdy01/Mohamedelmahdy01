@@ -6,14 +6,14 @@
 <br/>
 <br/>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=45% height=95px>
 
-- 🏢 **I'm a DevOps Engineer and Software Enthusiast.**  
-- 🌐 Building scalable, automated, and secure infrastructure for modern applications.  
+- 🏢 **DevOps Engineer** specializing in designing scalable, automated, and secure infrastructure.  
+- 🌐 Experienced in delivering robust infrastructure for modern applications.  
 - 🚀 Skilled in **CI/CD pipelines**, **Cloud Computing** (AWS, Azure), and **Containerization** (Docker, Kubernetes).  
-- 👨‍💻 A CS student at FCIS MU, combining academic knowledge with real-world DevOps practices.  
-- 🔧 Proficient in scripting (Python, Bash) and configuration management tools like **Ansible** and **Terraform**.  
-- 📚 Passionate about learning and implementing cutting-edge technologies in DevOps and Cloud.  
+- 🎓 **Computer Science graduate** from FCIS, Mansoura University, combining academic knowledge with real-world DevOps experience.  
+- 🔧 Proficient in scripting (Python, Bash) and Infrastructure as Code tools like **Ansible** and **Terraform**.  
+- 📚 Passionate about continuous learning and adopting cutting-edge DevOps and cloud technologies.  
 
 ---
 
@@ -40,12 +40,4 @@
 **Other Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)  
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-
----
-
-### 📫 **Connect with Me**  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/mohamed-elmahdy01)
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-
+![Linux](https://img.shields.i)
